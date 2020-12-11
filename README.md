@@ -60,7 +60,9 @@ class Example extends Component {
 }
 ```
 
-Example usage at [https://darylbuckle.github.io/react-botw-menu-components](https://darylbuckle.github.io/react-botw-menu-components).
+Examples at [https://darylbuckle.github.io/react-botw-grid-menu](https://darylbuckle.github.io/react-botw-grid-menu).
+
+Example with other botw-menu components at [https://darylbuckle.github.io/react-botw-menu-components](https://darylbuckle.github.io/react-botw-menu-components).
 
 
 ## Props
