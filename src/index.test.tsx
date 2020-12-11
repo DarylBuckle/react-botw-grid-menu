@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { BotwGridMenu } from '.'
 
-describe('ExampleComponent', () => {
+describe('BotwGridMenu', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(BotwGridMenu).toBeTruthy()
   })
 })
